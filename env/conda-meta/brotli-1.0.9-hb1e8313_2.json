@@ -1,0 +1,180 @@
+{
+  "build": "hb1e8313_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=10.0.0"
+  ],
+  "extracted_package_dir": "/Users/brandybeckman/opt/miniconda3/pkgs/brotli-1.0.9-hb1e8313_2",
+  "features": "",
+  "files": [
+    "bin/brotli",
+    "include/brotli/decode.h",
+    "include/brotli/encode.h",
+    "include/brotli/port.h",
+    "include/brotli/types.h",
+    "lib/libbrotlicommon.1.0.9.dylib",
+    "lib/libbrotlicommon.1.dylib",
+    "lib/libbrotlicommon.dylib",
+    "lib/libbrotlidec.1.0.9.dylib",
+    "lib/libbrotlidec.1.dylib",
+    "lib/libbrotlidec.dylib",
+    "lib/libbrotlienc.1.0.9.dylib",
+    "lib/libbrotlienc.1.dylib",
+    "lib/libbrotlienc.dylib",
+    "lib/pkgconfig/libbrotlicommon.pc",
+    "lib/pkgconfig/libbrotlidec.pc",
+    "lib/pkgconfig/libbrotlienc.pc"
+  ],
+  "fn": "brotli-1.0.9-hb1e8313_2.conda",
+  "legacy_bz2_md5": "2a310a7f0f0337a3953900be08438b06",
+  "license": "MIT",
+  "link": {
+    "source": "/Users/brandybeckman/opt/miniconda3/pkgs/brotli-1.0.9-hb1e8313_2",
+    "type": 1
+  },
+  "md5": "47c6f0f0789dc3b0c350e2f6caac3ebc",
+  "name": "brotli",
+  "package_tarball_full_path": "/Users/brandybeckman/opt/miniconda3/pkgs/brotli-1.0.9-hb1e8313_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/brotli",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/6f34e4d0-4572-4e67-52c6-900349b58bc0/volume/brotli-split_1602517645446/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "e2a79caf7be987a7530b7509345022939fd564b582926c3f4bbd1e05ff94aeef",
+        "sha256_in_prefix": "488e758ac57dca396084b0cbfe0363d6d8cf91e66d8775c1374690bc3997daf2",
+        "size_in_bytes": 27152
+      },
+      {
+        "_path": "include/brotli/decode.h",
+        "path_type": "hardlink",
+        "sha256": "a9665d09f77df18f8a1f4c948610474ebd8758ff3f3a0714842af0a12d263ee6",
+        "sha256_in_prefix": "a9665d09f77df18f8a1f4c948610474ebd8758ff3f3a0714842af0a12d263ee6",
+        "size_in_bytes": 14323
+      },
+      {
+        "_path": "include/brotli/encode.h",
+        "path_type": "hardlink",
+        "sha256": "dfc6f8e43b30e2e88c5cc9d1a4842aa967aa399e2ccd4eea3fb134a990216812",
+        "sha256_in_prefix": "dfc6f8e43b30e2e88c5cc9d1a4842aa967aa399e2ccd4eea3fb134a990216812",
+        "size_in_bytes": 17361
+      },
+      {
+        "_path": "include/brotli/port.h",
+        "path_type": "hardlink",
+        "sha256": "2cffc986439dfac586589f538db721155229ac615dfad16300dd70aff7b718f6",
+        "sha256_in_prefix": "2cffc986439dfac586589f538db721155229ac615dfad16300dd70aff7b718f6",
+        "size_in_bytes": 10712
+      },
+      {
+        "_path": "include/brotli/types.h",
+        "path_type": "hardlink",
+        "sha256": "96c9330e790aa6fe53f4cdd328d0a4b98e361b82913baa3219db73aadb11272c",
+        "sha256_in_prefix": "96c9330e790aa6fe53f4cdd328d0a4b98e361b82913baa3219db73aadb11272c",
+        "size_in_bytes": 2615
+      },
+      {
+        "_path": "lib/libbrotlicommon.1.0.9.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/6f34e4d0-4572-4e67-52c6-900349b58bc0/volume/brotli-split_1602517645446/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "543a0e02e374b1e4b8a160a682eab778ec20d7d1a0b02d8896eaa4e17f8b8773",
+        "sha256_in_prefix": "92e389f7fdce2c11f16105720ca24b824fa80558a3000f11ac2db367cd294ae2",
+        "size_in_bytes": 140248
+      },
+      {
+        "_path": "lib/libbrotlicommon.1.dylib",
+        "path_type": "softlink",
+        "sha256": "543a0e02e374b1e4b8a160a682eab778ec20d7d1a0b02d8896eaa4e17f8b8773",
+        "size_in_bytes": 140248
+      },
+      {
+        "_path": "lib/libbrotlicommon.dylib",
+        "path_type": "softlink",
+        "sha256": "543a0e02e374b1e4b8a160a682eab778ec20d7d1a0b02d8896eaa4e17f8b8773",
+        "size_in_bytes": 140248
+      },
+      {
+        "_path": "lib/libbrotlidec.1.0.9.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/6f34e4d0-4572-4e67-52c6-900349b58bc0/volume/brotli-split_1602517645446/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "30e6b22646e6204abf132ad59d288cb1cfd5d0fb5cb2729fc05dbb455a48f0e2",
+        "sha256_in_prefix": "d74e60ecf5a53faebb03576626c01cdb050add59a93f3e18d86df39c582699c7",
+        "size_in_bytes": 56588
+      },
+      {
+        "_path": "lib/libbrotlidec.1.dylib",
+        "path_type": "softlink",
+        "sha256": "30e6b22646e6204abf132ad59d288cb1cfd5d0fb5cb2729fc05dbb455a48f0e2",
+        "size_in_bytes": 56588
+      },
+      {
+        "_path": "lib/libbrotlidec.dylib",
+        "path_type": "softlink",
+        "sha256": "30e6b22646e6204abf132ad59d288cb1cfd5d0fb5cb2729fc05dbb455a48f0e2",
+        "size_in_bytes": 56588
+      },
+      {
+        "_path": "lib/libbrotlienc.1.0.9.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/6f34e4d0-4572-4e67-52c6-900349b58bc0/volume/brotli-split_1602517645446/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "f3bbe6b47da9ef21650b5ef396169138d293881ec707d0b5eaeb214c45b9e961",
+        "sha256_in_prefix": "18adc88ecae949d37054e13af9bea90c693e2388899dcc35ccc1a660492d94c4",
+        "size_in_bytes": 774396
+      },
+      {
+        "_path": "lib/libbrotlienc.1.dylib",
+        "path_type": "softlink",
+        "sha256": "f3bbe6b47da9ef21650b5ef396169138d293881ec707d0b5eaeb214c45b9e961",
+        "size_in_bytes": 774396
+      },
+      {
+        "_path": "lib/libbrotlienc.dylib",
+        "path_type": "softlink",
+        "sha256": "f3bbe6b47da9ef21650b5ef396169138d293881ec707d0b5eaeb214c45b9e961",
+        "size_in_bytes": 774396
+      },
+      {
+        "_path": "lib/pkgconfig/libbrotlicommon.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/6f34e4d0-4572-4e67-52c6-900349b58bc0/volume/brotli-split_1602517645446/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "89bda46722ba076d5cccc9379683fb653699219899a133b1ad87d303f651f6ad",
+        "sha256_in_prefix": "8c362d1d612cc12d391f122e1fc466263a0408145b27495a0242826a25361759",
+        "size_in_bytes": 772
+      },
+      {
+        "_path": "lib/pkgconfig/libbrotlidec.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/6f34e4d0-4572-4e67-52c6-900349b58bc0/volume/brotli-split_1602517645446/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "5e7ffaf26b9c6c53667d4097a13745480c60882b5d71595d7a73cf57819b83bf",
+        "sha256_in_prefix": "782b25adc7464830babca7a50a25af9450c323dc342f97bfcc990b5b827c0258",
+        "size_in_bytes": 799
+      },
+      {
+        "_path": "lib/pkgconfig/libbrotlienc.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/6f34e4d0-4572-4e67-52c6-900349b58bc0/volume/brotli-split_1602517645446/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "6beebff79369609f66df0388baeaa35bda4906cc265c963b25eb3a3aa245cf7d",
+        "sha256_in_prefix": "649fefc6b70a2d1568e9b7b14148d499842be6d58f35ef67d41f8c36804f8e1f",
+        "size_in_bytes": 799
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7b8ecf457dd4b8b45cc66d61d4885b2f1dd009142666dea334441e6798ec6113",
+  "size": 408045,
+  "subdir": "osx-64",
+  "timestamp": 1602517726539,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/brotli-1.0.9-hb1e8313_2.conda",
+  "version": "1.0.9"
+}
